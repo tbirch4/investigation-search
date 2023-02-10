@@ -1,0 +1,40 @@
+body {
+	font-family:'Roboto mono', monospace;
+	margin: auto;
+	max-width: 500px;
+	padding: 48px 24px;
+}
+
+.credits {
+	color: #939393;
+	margin:0 0 16px;
+}
+
+.read-block {
+	margin:16px 0 0 0;
+	padding:16px;
+	background-color:#e7e7e7;
+	border-radius: 4px;
+	border:none;
+}
+
+#instruction-list li {
+	margin:0 0 16px;
+}
+
+.checkbox-zone {
+	margin:0 0 16px;
+}
+
+.input-zone {
+	margin: 16px 0;
+}
+
+#settings-button {
+	margin:8px 0 0 0;
+}
+
+.text-input {
+	height:120px;
+	margin:0 0 16px;
+}
